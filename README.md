@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My Name is Bandara HRAMK
+I am UG Student at SLIIT
+
+IT Number   : IT20014636
+
+
+GitUserName : Anushika1999
+
 
 <!--
 **Anushika1999/Anushika1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
